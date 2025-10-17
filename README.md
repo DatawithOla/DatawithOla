@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Olatunbosun, a Senior Data Analyst and Scrum Master.
 
-<!--
-**DatawithOla/DatawithOla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#🙋‍♀️ About Me
+• 📊 I am currently open to Senior data analyst position.
 
-Here are some ideas to get you started:
+• 📐 Degree in Mechanical Engineering, with diffrent Certification in Data Analysis, Data Science, Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 👗 Soccer Enthusiast and Nature lover.
+
+#🛠 Skills and Tools
+• Tools: Power BI; SQL(JOINS, CTEs, Subqueries, temp Tables, UNIONs), BigQuery, DBT; R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy, Matplotlib); Tableau; Git.
+
+• Skills: Critical Thinking, Problem-Solving, Communication, Technical Writing, Leadership, Team Collaboration, Time Management.
+
+#📚 Projects
+• View my portfolio projects here;
+• Data Analysis Projects
+• Data Science Projects
+• Machine Learning Projects
+
+
+
+
+⭐ Favorite Projects
