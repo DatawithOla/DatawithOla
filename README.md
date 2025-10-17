@@ -3,7 +3,7 @@
 #🙋‍♀️ About Me
 • 📊 I am currently open to Senior data analyst position.
 
-• 📐 Degree in Mechanical Engineering, with diffrent Certification in Data Analysis, Data Science, Machine Learning.
+• 📐 Degree in Mechanical Engineering, with diffrent Certifications in Data Analysis, Data Science and Machine Learning.
 
 • 👗 Soccer Enthusiast and Nature lover.
 
@@ -15,10 +15,15 @@
 #📚 Projects
 • View my portfolio projects here;
 • Data Analysis Projects
+
 • Data Science Projects
+
 • Machine Learning Projects
 
 
+#📫Connect with Me
+• Email
 
+• LinkedIn
 
-⭐ Favorite Projects
+• 
